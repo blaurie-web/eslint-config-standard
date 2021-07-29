@@ -1,0 +1,23 @@
+{
+	"name": "@blaurie/eslint-config-standard",
+	"version": "1.0.0",
+	"description": "My eslint config. Also exports /strict (enable Strict) and /style. (for style guidelines)",
+	"main": "index.js",
+	"files": ["index.js", "strict.js", "style.js"],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"peerDependencies": {
+		"eslint": ">= 3"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/blaurie-web/eslint-config-standard.git"
+	},
+	"author": "Brad Laurie",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/blaurie-web/eslint-config-standard/issues"
+	},
+	"homepage": "https://github.com/blaurie-web/eslint-config-standard#readme"
+}
