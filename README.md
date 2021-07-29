@@ -7,6 +7,7 @@ code you want and need.
 # Also exports:
 
 @blaurie:eslint-config-standard/strict  -- Strict Setting is set to Error
+
 @blaurie:eslint-config-standard/style   -- My style guide.
 
 
